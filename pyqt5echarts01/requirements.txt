@@ -1,5 +1,7 @@
 pyecharts==0.5.11
 PyQt5==5.7.1
 sip==4.19.8
+pip install sip==4.19.8 -i https://pypi.douban.com/simple/
+
 wheel
 pyecharts==0.5.5
