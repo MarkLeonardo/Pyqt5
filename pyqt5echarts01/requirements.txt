@@ -2,6 +2,6 @@ pyecharts==0.5.11
 PyQt5==5.7.1
 sip==4.19.8
 pip install sip==4.19.8 -i https://pypi.douban.com/simple/
-
+## https://pypi.doubanio.com/packages/8a/ea/d317ce5696dda4df7c156cd60447cda22833b38106c98250eae1451f03ec/sip-4.19.8-cp36-cp36m-manylinux1_x86_64.whl 
 wheel
 pyecharts==0.5.5
