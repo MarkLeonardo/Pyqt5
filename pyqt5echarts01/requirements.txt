@@ -1,0 +1,5 @@
+pyecharts==0.5.11
+PyQt5==5.7.1
+sip==4.19.8
+wheel
+pyecharts==0.5.5
